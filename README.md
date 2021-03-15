@@ -1,3 +1,3 @@
 # stock_market_indicators
 
-Standard indicators are used to predict possible growth behaviour of stock markets. 
+We discuss long term investing strategies based on growth indicators. 
